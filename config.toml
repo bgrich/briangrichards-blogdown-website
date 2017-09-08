@@ -3,8 +3,10 @@ baseURL = "http://briangrichards.com"
 languageCode = "en-us"
 title = "Brian G. Richards"
 
+[params] 
+  description = "Data Scientist and Physics Ph.D."
 
 [[menu.main]]
   name = "About" 
-  url = "/about/" 
+  url = "/About/" 
   weight = 2
