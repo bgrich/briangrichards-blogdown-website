@@ -8,5 +8,5 @@ title = "Brian G. Richards"
 
 [[menu.main]]
   name = "About" 
-  url = "/About/" 
+  url = "/about/" 
   weight = 2
