@@ -1,0 +1,22 @@
+---
+title: New Publications
+author: Brian Richards
+date: '2016-09-08'
+slug: new-publications
+categories: []
+tags:
+  - Publications
+---
+
+I am pleased to (belatedly) announce a pair of publications!
+
+The first is work that I did examining the [line shapes of dipole-dipole
+interactions in a cold Rydberg
+gas.](http://journals.aps.org/pra/abstract/10.1103/PhysRevA.93.042505)
+
+The second is work done with Tao Zhou on the [absence of collective decay
+in a cold Rydberg
+gas](http://journals.aps.org/pra/abstract/10.1103/PhysRevA.93.033407).
+
+Both of these papers can be found at the links to the APS journal websites
+above.
