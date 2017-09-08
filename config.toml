@@ -13,5 +13,5 @@ title = "Brian G. Richards"
   
 [[menu.main]]
   name = "CV and Resume"
-  url = "cv"
+  url = "/cv/"
   weight = 3
