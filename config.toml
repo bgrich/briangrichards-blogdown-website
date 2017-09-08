@@ -1,4 +1,10 @@
 theme = "hyde"
-baseURL = "http://example.org/"
+baseURL = "http://briangrichards.com"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Brian G. Richards"
+
+
+[[menu.main]]
+  name = "About" 
+  url = "/about/" 
+  weight = 2
