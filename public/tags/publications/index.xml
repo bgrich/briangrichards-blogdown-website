@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Brian G. Richards</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on Brian G. Richards</description>
+    <title>Publications on Brian G. Richards</title>
+    <link>/tags/publications/</link>
+    <description>Recent content in Publications on Brian G. Richards</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 08 Sep 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/publications/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

@@ -6,20 +6,21 @@
     <description>Recent content on Brian G. Richards</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 08 Sep 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>New Publications</title>
+      <link>/post/new-publications/</link>
+      <pubDate>Thu, 08 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+      <guid>/post/new-publications/</guid>
+      <description>I am pleased to (belatedly) announce a pair of publications!
+The first is work that I did examining the line shapes of dipole-dipole interactions in a cold Rydberg gas.
+The second is work done with Tao Zhou on the absence of collective decay in a cold Rydberg gas.
+Both of these papers can be found at the links to the APS journal websites above.</description>
     </item>
     
     <item>
@@ -28,7 +29,17 @@ summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>Test</description>
+      <description>I am a Ph.D. candidate in the Ultrafast Laser and Atomic Physics Lab of Dr. Bob Jones.
+Research BackgroundMy current work is a study of dipole-dipole mediated resonant energy transfer (RET) and the various ways that RET can be used to study cold atomic systems. I study cold Rubidium Rydberg atoms in a magneto-optical trap (MOT). RET can be used to exchange energy over long ranges between atoms trapped in a MOT.</description>
+    </item>
+    
+    <item>
+      <title>CV and Resume</title>
+      <link>/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cv/</guid>
+      <description>Brian Richards Resume</description>
     </item>
     
   </channel>
