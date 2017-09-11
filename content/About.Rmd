@@ -2,31 +2,36 @@
 title: About
 ---
 
-I am a Ph.D. candidate in the Ultrafast Laser and Atomic Physics Lab of Dr.
-Bob Jones.
-
-### Research Background
-
-My current work is a study of dipole-dipole mediated resonant energy transfer
-(RET) and the various ways that RET can be used to study cold atomic systems. I
-study cold Rubidium Rydberg atoms in a magneto-optical trap (MOT). RET can be
-used to exchange energy over long ranges between atoms trapped in a MOT. These
-long range interactions allow the transfer of population from some starting
-pair of Rydberg states to another final pair of Rydberg states. These long
-range RET systems may also allow us to control the separation of the atoms
-within the MOT and give us access to methods to control atom motion.
-
-### Interests
-
-My primary research interests include the development of open-access data
-acquisition, processing, storage, and analysis pipelines for physics research.
-I am currently developing a package for [R](https://www.r-project.org) called
+I am a data scientist, Physics Ph.D., and R enthusiast interested in the 
+intersection between emerging data science techniques and how these techniques 
+can be used to solve interesting and complex problems. I am particularly 
+interested in developing data acquisition, processing, storage, and
+analysis pipelines to enable more researchers to easily access complex topics. 
+As part of my Ph.D. research I developed a package for 
+[R](https://www.r-project.org) called
 [starkr](https://www.github.com/bgrich/starkr) that is currently available on
 GitHub. This package provides functions to calculate the Stark map of
 Rubidium-85 along with functions to calculate the quantum defect, radial matrix
-element, and other useful functions. I plan to continue the development of this
-package to improve the speed of the calculations along with expanding it to
-cover more cases and possibly more atoms.
+element, and other useful functions. Packages like these can allow more 
+researchers to integrate complex calculations directly into their analysis, 
+allowing for greater efficiency in workflow and greater transparency in the 
+methods used.
 
 I am also interested in science communication, both amongst experts in
 scientific fields and between experts and non-experts.
+
+### Research Background
+
+My Ph.D. work was a study of dipole-dipole interactions between cold Rydberg 
+atoms. I studied cold Rubidium Rydberg atoms in a magneto-optical trap (MOT). 
+Dipole-dipole interactions can be used to exchange energy over large distances 
+(many times the size of the atom) between atoms trapped in a MOT. These long 
+range interactions can have numerous effects on the atoms such as creating 
+energy shifts in nearest-neighbor atoms that turn off collective effects like 
+superradiance. Long range dipole-dipole interactions can also lead to population 
+transfer between Rydberg pair states via dipole-mediated resonant energy 
+transfer (RET). Additionally, these dipole-dipole systems may also be used to 
+allow for the control of the minimum separation between pairs of atoms within a 
+MOT. For more information about my Ph.D. work, my dissertation, 
+[Dipole-Dipole Interactions in a Cold Rydberg Gas](https://doi.org/10.18130/V3MB4V), 
+is freely available through the University of Virginia library.
