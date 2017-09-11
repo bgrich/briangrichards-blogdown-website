@@ -6,10 +6,29 @@
     <description>Recent content in Posts on Brian G. Richards</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Sep 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Sep 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://briangrichards.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Graduation</title>
+      <link>http://briangrichards.com/post/graduation/</link>
+      <pubDate>Mon, 11 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://briangrichards.com/post/graduation/</guid>
+      <description>Another belated announcement! Back in July I defended my dissertation and in August I officially graduated. For any who are interested in the work that I have done, my dissertation is freely available from the University of Virginia library.</description>
+    </item>
+    
+    <item>
+      <title>Transitioning to Blogdown</title>
+      <link>http://briangrichards.com/post/transitioning-to-blogdown/</link>
+      <pubDate>Mon, 11 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://briangrichards.com/post/transitioning-to-blogdown/</guid>
+      <description>I have felt for a while that this site needs a refresh. Previously, I had built it using Jekyll on a Windows machine. I’ve found that Jekyll was a pain to use in a Windows environment and that kept me from updating this site regularly. Fortunately, a few months ago I attended a RStudio webinar given by Yihui Xie on his new blogdown package.
+Welcome to the new site created in blogdown!</description>
+    </item>
     
     <item>
       <title>New Publications</title>
