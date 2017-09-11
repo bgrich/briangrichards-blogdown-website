@@ -17,9 +17,6 @@ researchers to integrate complex calculations directly into their analysis,
 allowing for greater efficiency in workflow and greater transparency in the 
 methods used.
 
-I am also interested in science communication, both amongst experts in
-scientific fields and between experts and non-experts.
-
 ### Research Background
 
 My Ph.D. work was a study of dipole-dipole interactions between cold Rydberg 
