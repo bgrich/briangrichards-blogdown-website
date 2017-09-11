@@ -5,7 +5,7 @@ date: '2017-09-11'
 slug: transitioning-to-blogdown
 categories: []
 tags: []
-draft: true
+draft: false
 ---
 
 I have felt for a while that this site needs a refresh. Previously, I had built 
