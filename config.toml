@@ -1,5 +1,5 @@
 theme = "hyde"
-baseURL = "http://briangrichards.com"
+baseURL = "http://briangrichards.com/"
 languageCode = "en-us"
 title = "Brian G. Richards"
 relativeurls = true
