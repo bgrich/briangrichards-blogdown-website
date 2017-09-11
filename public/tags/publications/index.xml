@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Brian G. Richards</title>
-    <link>/tags/publications/</link>
+    <link>http://briangrichards.com/tags/publications/</link>
     <description>Recent content in Publications on Brian G. Richards</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 08 Sep 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/publications/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://briangrichards.com/tags/publications/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>New Publications</title>
-      <link>/post/new-publications/</link>
+      <link>http://briangrichards.com/post/new-publications/</link>
       <pubDate>Thu, 08 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/new-publications/</guid>
+      <guid>http://briangrichards.com/post/new-publications/</guid>
       <description>I am pleased to (belatedly) announce a pair of publications!
 The first is work that I did examining the line shapes of dipole-dipole interactions in a cold Rydberg gas.
 The second is work done with Tao Zhou on the absence of collective decay in a cold Rydberg gas.

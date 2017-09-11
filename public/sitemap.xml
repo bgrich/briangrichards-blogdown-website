@@ -3,43 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/new-publications/</loc>
+    <loc>http://briangrichards.com/post/new-publications/</loc>
     <lastmod>2016-09-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>http://briangrichards.com/about/</loc>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2016-09-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/cv/</loc>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
+    <loc>http://briangrichards.com/</loc>
     <lastmod>2016-09-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/publications/</loc>
+    <loc>http://briangrichards.com/cv/</loc>
+  </url>
+  
+  <url>
+    <loc>http://briangrichards.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://briangrichards.com/post/</loc>
     <lastmod>2016-09-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>http://briangrichards.com/tags/publications/</loc>
+    <lastmod>2016-09-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://briangrichards.com/tags/</loc>
     <lastmod>2016-09-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

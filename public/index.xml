@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Brian G. Richards</title>
-    <link>/</link>
+    <link>http://briangrichards.com/</link>
     <description>Recent content on Brian G. Richards</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 08 Sep 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://briangrichards.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>New Publications</title>
-      <link>/post/new-publications/</link>
+      <link>http://briangrichards.com/post/new-publications/</link>
       <pubDate>Thu, 08 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/new-publications/</guid>
+      <guid>http://briangrichards.com/post/new-publications/</guid>
       <description>I am pleased to (belatedly) announce a pair of publications!
 The first is work that I did examining the line shapes of dipole-dipole interactions in a cold Rydberg gas.
 The second is work done with Tao Zhou on the absence of collective decay in a cold Rydberg gas.
@@ -25,19 +25,19 @@ Both of these papers can be found at the links to the APS journal websites above
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>http://briangrichards.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>http://briangrichards.com/about/</guid>
       <description>I am a data scientist, Physics Ph.D., and R enthusiast interested in the intersection between data science techniques and how these techniques can be used to solve interesting and complex problems. I am particularly interested in developing data acquisition, processing, storage, and analysis pipelines to enable more researchers to easily access complex topics. As part of my Ph.D. research I developed a package for R called starkr that is currently available on GitHub.</description>
     </item>
     
     <item>
       <title>CV and Resume</title>
-      <link>/cv/</link>
+      <link>http://briangrichards.com/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/cv/</guid>
+      <guid>http://briangrichards.com/cv/</guid>
       <description>Brian Richards Resume</description>
     </item>
     

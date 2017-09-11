@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Brian G. Richards</title>
-    <link>/tags/</link>
+    <link>http://briangrichards.com/tags/</link>
     <description>Recent content in Tags on Brian G. Richards</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 08 Sep 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://briangrichards.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Publications</title>
-      <link>/tags/publications/</link>
+      <link>http://briangrichards.com/tags/publications/</link>
       <pubDate>Thu, 08 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>/tags/publications/</guid>
+      <guid>http://briangrichards.com/tags/publications/</guid>
       <description></description>
     </item>
     
