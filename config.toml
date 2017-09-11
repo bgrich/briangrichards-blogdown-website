@@ -2,6 +2,7 @@ theme = "hyde"
 baseURL = "http://briangrichards.com"
 languageCode = "en-us"
 title = "Brian G. Richards"
+relativeURLs = true
 
 [params] 
   description = "Data Scientist, Physics Ph.D., and R Enthusiast"
