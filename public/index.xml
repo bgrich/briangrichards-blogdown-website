@@ -29,8 +29,7 @@ Both of these papers can be found at the links to the APS journal websites above
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>I am a Ph.D. candidate in the Ultrafast Laser and Atomic Physics Lab of Dr. Bob Jones.
-Research BackgroundMy current work is a study of dipole-dipole mediated resonant energy transfer (RET) and the various ways that RET can be used to study cold atomic systems. I study cold Rubidium Rydberg atoms in a magneto-optical trap (MOT). RET can be used to exchange energy over long ranges between atoms trapped in a MOT.</description>
+      <description>I am a data scientist, Physics Ph.D., and R enthusiast interested in the intersection between data science techniques and how these techniques can be used to solve interesting and complex problems. I am particularly interested in developing data acquisition, processing, storage, and analysis pipelines to enable more researchers to easily access complex topics. As part of my Ph.D. research I developed a package for R called starkr that is currently available on GitHub.</description>
     </item>
     
     <item>
