@@ -19,10 +19,10 @@ methods used.
 
 ### Research Background
 
-My Ph.D. work was a study of dipole-dipole interactions between cold Rydberg 
-atoms. I studied cold Rubidium Rydberg atoms in a magneto-optical trap (MOT). 
-Dipole-dipole interactions can be used to exchange energy over large distances 
-(many times the size of the atom) between atoms trapped in a MOT. These long 
+My Ph.D. work was a study of dipole-dipole interactions between cold Rubidium 
+Rydberg atoms in a magneto-optical trap (MOT). 
+Dipole-dipole interactions can be used to influence neighboring atoms over 
+large distances (many times the size of the atom). These long 
 range interactions can have numerous effects on the atoms such as creating 
 energy shifts in nearest-neighbor atoms that turn off collective effects like 
 superradiance. Long range dipole-dipole interactions can also lead to population 
