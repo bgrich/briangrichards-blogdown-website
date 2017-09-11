@@ -8,3 +8,16 @@ tags: []
 draft: true
 ---
 
+I have felt for a while that this site needs a refresh. Previously, I had built 
+it using Jekyll on a Windows machine. I've found that Jekyll was a pain to use 
+in a Windows environment and that kept me from updating this site 
+regularly. Fortunately, a few months ago I attended a RStudio webinar given 
+by Yihui Xie on his new [blogdown](https://bookdown.org/yihui/blogdown/) 
+package. 
+
+Welcome to the new site created in blogdown! It isn't particularly different 
+from the previous iteration as it uses a different implementation of the same 
+theme from Jekyll ([Hyde](https://github.com/spf13/hyde)). Hopefully, blogdown's 
+integration with RStudio will mean that I am more likely to keep the site 
+updated. And even better, the RMarkdown integration should let me post code 
+alongside any work updates I may post in the future!
