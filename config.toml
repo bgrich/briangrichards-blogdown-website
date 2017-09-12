@@ -16,3 +16,14 @@ relativeurls = true
   name = "CV and Resume"
   url = "/cv/"
   weight = 3
+  
+[[menu.main]]
+  name = "LinkedIn"
+  url = "https://www.linkedin.com/in/briangrichards/"
+  weight = 4
+  
+[[menu.main]] 
+  name = "GitHub"
+  url = "https://github.com/bgrich"
+  weight = 5
+  
