@@ -3,6 +3,7 @@ baseURL = "http://briangrichards.com/"
 languageCode = "en-us"
 title = "Brian G. Richards"
 relativeurls = true
+googleAnalytics = "UA-106427662-1"
 
 [params] 
   description = "Data Scientist, Physics Ph.D., and R Enthusiast"
