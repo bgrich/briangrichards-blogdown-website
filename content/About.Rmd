@@ -1,7 +1,7 @@
 ---
 title: About
 ---
-
+--------------
 I am a data scientist, Physics Ph.D., and R enthusiast interested in the 
 intersection between data science techniques and how these techniques 
 can be used to solve interesting and complex problems. I am particularly 
