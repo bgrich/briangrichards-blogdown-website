@@ -1,4 +1,30 @@
 ---
-title: "R Notebook"
+title: ""
 ---
+
+# Summary 
+
+* A diligent worker at developing pipelines for data acqusition, storage, and 
+analysis.
+* Skilled at creating informative visualizations to present data. 
+* Skilled at communicating complex topics using both technical and 
+non-technical language. 
+* Developed R package to solve Physics problems (available on 
+[GitHub](https://github.com/bgrich/starkr)). 
+* Dedicated to continued learning and skill development. 
+
+# Skills 
+
+Programming Languages: R, LabVIEW, Markdown, LaTeX, Git  
+R Package Experience: ggplot2, dplyr, tidyr, readr, devtools, rmarkdown, tibble  
+Computer Programs: RStudio, Microsoft Word, Microsoft Excel, 
+Microsoft Powerpoint  
+Familiarity with: SQL, Python, Java  
+Continuing Coursework: DataCamp Data Scientist (with R) career track (including 
+courses in machine learning)  
+
+# Education 
+
+**Ph.D., Physics,** The University of Virginia, Charlottesville, VA (2010--2017)  
+**B.S., Physics,** The College of William and Mary, Williamsburg, VA (2006--2010)
 
