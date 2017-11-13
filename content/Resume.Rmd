@@ -1,7 +1,7 @@
 ---
 title: "Resume"
 ---
-
+---------------------
 ## Brian G. Richards  
 [https://www.linkedin.com/in/briangrichards/](https://www.linkedin.com/in/briangrichards/)
 
