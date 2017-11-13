@@ -1,0 +1,68 @@
+---
+title: ""
+---
+
+# Summary 
+
+* A diligent worker at developing pipelines for data acquisition, storage, and 
+analysis.
+* Skilled at creating informative visualizations to present data. 
+* Skilled at communicating complex topics using both technical and 
+non-technical language. 
+* Developed R package to solve Physics problems (available on 
+[GitHub](https://github.com/bgrich/starkr)). 
+* Dedicated to continued learning and skill development. 
+
+# Skills 
+
+**Programming Languages**: R, LabVIEW, Markdown, LaTeX, Git  
+**R Package Experience**: ggplot2, dplyr, tidyr, readr, devtools, rmarkdown, tibble  
+**Computer Programs**: RStudio, Microsoft Word, Microsoft Excel, 
+Microsoft Powerpoint  
+**Familiarity with**: SQL, Python, Java  
+**Continuing Coursework**: DataCamp Data Scientist (with R) career track (including 
+courses in machine learning)  
+
+# Education 
+
+2010--2017
+: **Ph.D., Physics,** The University of Virginia, Charlottesville, VA
+
+2006--2010
+: **B.S., Physics,** The College of William and Mary, Williamsburg, VA
+
+# Experience 
+
+2011--2017
+: **Graduate Research Assistant,** Ultrafast Laser and Atomic Physics Lab  
+Department of Physics, The University of Virginia, Charlottesville, VA  
+
+: * Developed data analysis pipelines in R for two studies of dipole-dipole 
+interactions in cold Rydberg gases.\ 
+  * Developed R package modeling the Stark effect in Rubidium
+
+2010--2014
+: **Graduate Teaching Assistant,** The University of Virginia, Charlottesville, VA  
+
+: * Led discussion sections and laboratory sections and evaluated student 
+assignments for introductory and mid-level physics courses.
+
+2009 
+: **Summer Undergraduate Research Fellow,** Windover Lab  
+National Institute of Science and Technology, Gaithersburg, MD  
+
+: * Used R, Python, and genetic algorithms to analyze X-ray reflectometry data. 
+
+# Publications
+
+* **B. G. Richards** and R. R. Jones, *Phys. Rev. A* 93, 042505 (2016).
+* T. Zhou, **B. G. Richards**, and R. R. Jones, *Phys. Rev. A* 93, 033407 (2016).
+
+# Presentations and Talks
+
+* **B. G. Richards**, "Dipole-dipole Resonance Line Shapes in a Cold Rydberg Gas." 
+SESAPS, Charlottesville, VA, November 11, 2016 
+* **B. G. Richards** and R. R. Jones, "Lineshapes of Dipole-Dipole Resonances in 
+a Cold Rydberg Gas." DAMOP, Columbus, OH, June 10, 2015 
+* T. Zhou, **B. G. Richards**, and R. R. Jones, "Absence of Collective Decay in 
+a Cold Rydberg Gas." DAMOP, Columbus, OH, June 10, 2015
