@@ -15,12 +15,12 @@ non-technical language.
 
 # Skills 
 
-Programming Languages: R, LabVIEW, Markdown, LaTeX, Git  
-R Package Experience: ggplot2, dplyr, tidyr, readr, devtools, rmarkdown, tibble  
-Computer Programs: RStudio, Microsoft Word, Microsoft Excel, 
+**Programming Languages**: R, LabVIEW, Markdown, LaTeX, Git  
+**R Package Experience**: ggplot2, dplyr, tidyr, readr, devtools, rmarkdown, tibble  
+**Computer Programs**: RStudio, Microsoft Word, Microsoft Excel, 
 Microsoft Powerpoint  
-Familiarity with: SQL, Python, Java  
-Continuing Coursework: DataCamp Data Scientist (with R) career track (including 
+**Familiarity with**: SQL, Python, Java  
+**Continuing Coursework**: DataCamp Data Scientist (with R) career track (including 
 courses in machine learning)  
 
 # Education 
