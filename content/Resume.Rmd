@@ -4,7 +4,7 @@ title: ""
 
 # Summary 
 
-* A diligent worker at developing pipelines for data acqusition, storage, and 
+* A diligent worker at developing pipelines for data acquisition, storage, and 
 analysis.
 * Skilled at creating informative visualizations to present data. 
 * Skilled at communicating complex topics using both technical and 
