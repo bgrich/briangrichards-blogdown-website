@@ -1,11 +1,6 @@
 ---
 title: ""
-code_folding: "none"
 ---
-
-```{r, include = FALSE}
-library(tidyverse)
-```
 
 # Summary 
 
