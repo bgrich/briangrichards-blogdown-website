@@ -40,3 +40,15 @@ Department of Physics, The University of Virginia, Charlottesville, VA
 : * Developed data analysis pipelines in R for two studies of dipole-dipole 
 interactions in cold Rydberg gases.\ 
   * Developed R package modeling the Stark effect in Rubidium
+
+2010--2014
+: **Graduate Teaching Assistant,** The University of Virginia, Charlottesville, VA  
+
+: * Led discussion sections and laboratory sections and evaluated student 
+assignments for introductory and mid-level physics courses.
+
+2009 
+: **Summer Undergraduate Research Fellow,** Windover Lab  
+National Institute of Science and Technology, Gaithersburg, MD  
+
+: * Used R, Python, and genetic algorithms to analyze X-ray reflectometry data. 
