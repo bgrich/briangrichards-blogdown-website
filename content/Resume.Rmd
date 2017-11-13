@@ -52,3 +52,17 @@ assignments for introductory and mid-level physics courses.
 National Institute of Science and Technology, Gaithersburg, MD  
 
 : * Used R, Python, and genetic algorithms to analyze X-ray reflectometry data. 
+
+# Publications
+
+* **B. G. Richards** and R. R. Jones, *Phys. Rev. A* 93, 042505 (2016).
+* T. Zhou, **B. G. Richards**, and R. R. Jones, *Phys. Rev. A* 93, 033407 (2016).
+
+# Presentations and Talks
+
+* **B. G. Richards**, "Dipole-dipole Resonance Line Shapes in a Cold Rydberg Gas." 
+SESAPS, Charlottesville, VA, November 11, 2016 
+* **B. G. Richards** and R. R. Jones, "Lineshapes of Dipole-Dipole Resonances in 
+a Cold Rydberg Gas." DAMOP, Columbus, OH, June 10, 2015 
+* T. Zhou, **B. G. Richards**, and R. R. Jones, "Absence of Collective Decay in 
+a Cold Rydberg Gas." DAMOP, Columbus, OH, June 10, 2015
