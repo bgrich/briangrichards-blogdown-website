@@ -1,6 +1,11 @@
 ---
 title: ""
+code_folding: "none"
 ---
+
+```{r, include = FALSE}
+library(tidyverse)
+```
 
 # Summary 
 
@@ -25,6 +30,18 @@ courses in machine learning)
 
 # Education 
 
-**Ph.D., Physics,** The University of Virginia, Charlottesville, VA (2010--2017)  
-**B.S., Physics,** The College of William and Mary, Williamsburg, VA (2006--2010)
+2010--2017
+: **Ph.D., Physics,** The University of Virginia, Charlottesville, VA
 
+2006--2010
+: **B.S., Physics,** The College of William and Mary, Williamsburg, VA
+
+# Experience 
+
+2011--2017
+: **Graduate Research Assistant,** Ultrafast Laser and Atomic Physics Lab  
+Department of Physics, The University of Virginia, Charlottesville, VA  
+
+: * Developed data analysis pipelines in R for two studies of dipole-dipole 
+interactions in cold Rydberg gases.\ 
+  * Developed R package modeling the Stark effect in Rubidium
