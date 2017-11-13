@@ -1,8 +1,12 @@
 ---
-title: ""
+title: "Resume"
 ---
 
-# Summary 
+## Brian G. Richards  
+[https://www.linkedin.com/in/briangrichards/](https://www.linkedin.com/in/briangrichards/)
+
+
+### Summary 
 
 * A diligent worker at developing pipelines for data acquisition, storage, and 
 analysis.
@@ -13,7 +17,7 @@ non-technical language.
 [GitHub](https://github.com/bgrich/starkr)). 
 * Dedicated to continued learning and skill development. 
 
-# Skills 
+### Skills 
 
 **Programming Languages**: R, LabVIEW, Markdown, LaTeX, Git  
 **R Package Experience**: ggplot2, dplyr, tidyr, readr, devtools, rmarkdown, tibble  
@@ -23,7 +27,7 @@ Microsoft Powerpoint
 **Continuing Coursework**: DataCamp Data Scientist (with R) career track (including 
 courses in machine learning)  
 
-# Education 
+### Education 
 
 2010--2017
 : **Ph.D., Physics,** The University of Virginia, Charlottesville, VA
@@ -31,7 +35,7 @@ courses in machine learning)
 2006--2010
 : **B.S., Physics,** The College of William and Mary, Williamsburg, VA
 
-# Experience 
+### Experience 
 
 2011--2017
 : **Graduate Research Assistant,** Ultrafast Laser and Atomic Physics Lab  
@@ -53,12 +57,12 @@ National Institute of Science and Technology, Gaithersburg, MD
 
 : * Used R, Python, and genetic algorithms to analyze X-ray reflectometry data. 
 
-# Publications
+### Publications
 
 * **B. G. Richards** and R. R. Jones, *Phys. Rev. A* 93, 042505 (2016).
 * T. Zhou, **B. G. Richards**, and R. R. Jones, *Phys. Rev. A* 93, 033407 (2016).
 
-# Presentations and Talks
+### Presentations and Talks
 
 * **B. G. Richards**, "Dipole-dipole Resonance Line Shapes in a Cold Rydberg Gas." 
 SESAPS, Charlottesville, VA, November 11, 2016 
