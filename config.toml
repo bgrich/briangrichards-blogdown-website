@@ -14,8 +14,8 @@ googleAnalytics = "UA-106427662-1"
   weight = 2
   
 [[menu.main]]
-  name = "CV and Resume"
-  url = "/cv/"
+  name = "Resume"
+  url = "/resume/"
   weight = 3
   
 [[menu.main]]
