@@ -28,3 +28,8 @@ googleAnalytics = "UA-106427662-1"
   url = "https://github.com/bgrich"
   weight = 5
   
+[[menu.main]] 
+  name = "Simply Approximate"
+  url = "http://www.simplyapproximate.com"
+  weight = 6
+  
