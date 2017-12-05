@@ -1,0 +1,13 @@
+---
+title: Announcing Simply Approximate
+author: Brian Richards
+date: '2017-12-05'
+slug: announcing-simply-approximate
+---
+
+After several years of trying to get it off the ground, I have finally launched 
+my blog site. It is called [Simply Approximate](http://www.simplyapproximate.com) 
+and will be the home of my rambling thoughts on Data Science, Physics, and any 
+other thing that happens to interest me. So if you want to see what I am 
+working on, check it out! A permanent link to the blog will be available in 
+the sidebar.

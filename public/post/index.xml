@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Brian G. Richards</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Dec 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://briangrichards.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Announcing Simply Approximate</title>
+      <link>http://briangrichards.com/post/announcing-simply-approximate/</link>
+      <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://briangrichards.com/post/announcing-simply-approximate/</guid>
+      <description>After several years of trying to get it off the ground, I have finally launched my blog site. It is called Simply Approximate and will be the home of my rambling thoughts on Data Science, Physics, and any other thing that happens to interest me. So if you want to see what I am working on, check it out! A permanent link to the blog will be available in the sidebar.</description>
+    </item>
     
     <item>
       <title>Graduation</title>

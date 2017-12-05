@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://briangrichards.com/post/announcing-simply-approximate/</loc>
+    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://briangrichards.com/post/graduation/</loc>
     <lastmod>2017-09-11T00:00:00+00:00</lastmod>
   </url>
@@ -23,7 +28,7 @@
   
   <url>
     <loc>http://briangrichards.com/</loc>
-    <lastmod>2017-09-11T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -38,7 +43,7 @@
   
   <url>
     <loc>http://briangrichards.com/post/</loc>
-    <lastmod>2017-09-11T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
