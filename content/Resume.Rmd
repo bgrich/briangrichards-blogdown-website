@@ -8,8 +8,8 @@ title: "Resume"
 
 ### Summary 
 
-* A diligent worker at developing pipelines for data acquisition, storage, and 
-analysis.
+* A diligent worker at developing pipelines for data acquisition, cleaning, 
+storage, and analysis.
 * Skilled at creating informative visualizations to present data. 
 * Skilled at communicating complex topics using both technical and 
 non-technical language. 
