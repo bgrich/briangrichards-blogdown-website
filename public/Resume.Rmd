@@ -8,8 +8,8 @@ title: "Resume"
 
 ### Summary 
 
-* A diligent worker at developing pipelines for data acquisition, storage, and 
-analysis.
+* A diligent worker at developing pipelines for data acquisition, cleaning, 
+storage, and analysis.
 * Skilled at creating informative visualizations to present data. 
 * Skilled at communicating complex topics using both technical and 
 non-technical language. 
@@ -23,7 +23,7 @@ non-technical language.
 **R Package Experience**: ggplot2, dplyr, tidyr, readr, devtools, rmarkdown, tibble  
 **Computer Programs**: RStudio, Microsoft Word, Microsoft Excel, 
 Microsoft Powerpoint  
-**Familiarity with**: SQL, Python, Java  
+**Familiarity with**: SQL, Python
 **Continuing Coursework**: DataCamp Data Scientist (with R) career track (including 
 courses in machine learning)  
 
