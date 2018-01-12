@@ -23,7 +23,7 @@ non-technical language.
 **R Package Experience**: ggplot2, dplyr, tidyr, readr, devtools, rmarkdown, tibble  
 **Computer Programs**: RStudio, Microsoft Word, Microsoft Excel, 
 Microsoft Powerpoint  
-**Familiarity with**: SQL, Python, Java  
+**Familiarity with**: SQL, Python
 **Continuing Coursework**: DataCamp Data Scientist (with R) career track (including 
 courses in machine learning)  
 
