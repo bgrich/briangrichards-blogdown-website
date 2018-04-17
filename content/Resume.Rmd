@@ -44,12 +44,13 @@ courses in machine learning), DataCamp Data Scientist (with Python) career track
 : **Graduate Research Assistant,** Ultrafast Laser and Atomic Physics Lab  
 Department of Physics, The University of Virginia, Charlottesville, VA  
 
-: * Studied the absence of collective decay in Rubidium Rydberg atoms.\ 
-  * Studied cold Rydberg atom dipole-dipole resonance line shapes.\ 
-  * Investigated methods to control the minimum separation between atoms in a cold gas.\ 
-  * Developed data analysis workflows in R for two studies of dipole-dipole 
+: * Developed data analysis workflows in R for two studies of dipole-dipole 
 interactions in cold Rydberg gases.\ 
-  * Developed R package modeling the Stark effect in Rubidium.  
+  * Developed R package modeling the Stark effect in Rubidium.\ 
+  * Studied the absence of collective decay in Rubidium Rydberg atoms.\ 
+  * Studied cold Rydberg atom dipole-dipole resonance line shapes.\ 
+  * Investigated methods to control the minimum separation between atoms in a cold gas.  
+  
 
 2010--2014
 : **Graduate Teaching Assistant,** The University of Virginia, Charlottesville, VA  
