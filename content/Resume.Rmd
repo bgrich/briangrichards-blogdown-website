@@ -41,9 +41,12 @@ courses in machine learning), DataCamp Data Scientist (with Python) career track
 : **Graduate Research Assistant,** Ultrafast Laser and Atomic Physics Lab  
 Department of Physics, The University of Virginia, Charlottesville, VA  
 
-: * Developed data analysis pipelines in R for two studies of dipole-dipole 
+: * Studied the absence of collective decay in Rubidium Rydberg atoms.\ 
+  * Studied cold Rydberg atom dipole-dipole resonance line shapes.\ 
+  * Investigated methods to control the minimum separation between atoms in a cold gas.\ 
+  * Developed data analysis pipelines in R for two studies of dipole-dipole 
 interactions in cold Rydberg gases.\ 
-  * Developed R package modeling the Stark effect in Rubidium
+  * Developed R package modeling the Stark effect in Rubidium.  
 
 2010--2014
 : **Graduate Teaching Assistant,** The University of Virginia, Charlottesville, VA  
@@ -51,9 +54,24 @@ interactions in cold Rydberg gases.\
 : * Led discussion sections and laboratory sections and evaluated student 
 assignments for introductory and mid-level physics courses.
 
+2010 
+: **Summer Undergraduate Research Fellow,** Pomeroy Lab  
+National Institute of Standards and Technology, Gaithersburg, MD  
+
+: * Studied methods for precision resistance measurements.\ 
+  * Assisted in the fabrication and assembly of lab equipment.  
+  
+2009--2010
+: **Undergraduate Researcher,** Aubin Lab  
+Department of Physics, The College of William and Mary, Williamsburg, VA  
+
+: * Studied methods to implement an optical frequency comb using an actively 
+mode-locked diode laser.\ 
+  * Trained in optical experimental techniques.
+
 2009 
 : **Summer Undergraduate Research Fellow,** Windover Lab  
-National Institute of Science and Technology, Gaithersburg, MD  
+National Institute of Standards and Technology, Gaithersburg, MD  
 
 : * Used R, Python, and genetic algorithms to analyze X-ray reflectometry data. 
 
