@@ -76,8 +76,9 @@ Both of these papers can be found at the links to the APS journal websites above
       
       <guid>http://briangrichards.com/resume/</guid>
       <description>Brian G. Richardshttps://www.linkedin.com/in/briangrichards/
-SummaryA diligent worker at developing pipelines for data acquisition, cleaning, storage, and analysis.Skilled at creating informative visualizations to present data.Skilled at communicating complex topics using both technical and non-technical language.Developed R package to solve Physics problems (available on GitHub).Dedicated to continued learning and skill development.SkillsProgramming Languages: R, LabVIEW, Markdown, LaTeX, Git
-R Package Experience: ggplot2, dplyr, tidyr, readr, devtools, rmarkdown, tibble</description>
+SummarySkilled at communicating complex topics using both technical and non-technical language.Developed R package to solve Physics problems (available on GitHub).A diligent worker at developing workflows for data acquisition, cleaning, analysis, and visualization.Dedicated to continued learning and skill development.SkillsProgramming Languages: R, LabVIEW, Markdown, LaTeX, Git, SQL, Python
+R Package Experience: ggplot2, dplyr, tidyr, readr, devtools, rmarkdown, tibble
+Computer Programs: RStudio, Microsoft Word, Microsoft Excel, Microsoft Powerpoint</description>
     </item>
     
   </channel>

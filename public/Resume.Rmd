@@ -8,32 +8,35 @@ title: "Resume"
 
 ### Summary 
 
-* A diligent worker at developing pipelines for data acquisition, cleaning, 
-storage, and analysis.
-* Skilled at creating informative visualizations to present data. 
 * Skilled at communicating complex topics using both technical and 
 non-technical language. 
 * Developed R package to solve Physics problems (available on 
 [GitHub](https://github.com/bgrich/starkr)). 
+* A diligent worker at developing workflows for data acquisition, cleaning, 
+analysis, and visualization.
 * Dedicated to continued learning and skill development. 
 
 ### Skills 
 
-**Programming Languages**: R, LabVIEW, Markdown, LaTeX, Git  
+**Programming Languages**: R, LabVIEW, Markdown, LaTeX, Git, SQL, Python  
 **R Package Experience**: ggplot2, dplyr, tidyr, readr, devtools, rmarkdown, tibble  
 **Computer Programs**: RStudio, Microsoft Word, Microsoft Excel, 
 Microsoft Powerpoint  
-**Familiarity with**: SQL, Python  
 **Continuing Coursework**: DataCamp Data Scientist (with R) career track (including 
-courses in machine learning)  
+courses in machine learning), DataCamp Data Scientist (with Python) career track 
+(including courses in machine learning)  
 
 ### Education 
 
 2010--2017
 : **Ph.D., Physics,** The University of Virginia, Charlottesville, VA
 
+: * Dissertation: [_Dipole-Dipole Interactions in a Cold Rydberg Gas_](https://doi.org/10.18130/V3MB4V)
+
 2006--2010
 : **B.S., Physics,** The College of William and Mary, Williamsburg, VA
+
+: * Graduated Summa Cum Laude with Honors in Physics
 
 ### Experience 
 
@@ -41,9 +44,13 @@ courses in machine learning)
 : **Graduate Research Assistant,** Ultrafast Laser and Atomic Physics Lab  
 Department of Physics, The University of Virginia, Charlottesville, VA  
 
-: * Developed data analysis pipelines in R for two studies of dipole-dipole 
+: * Developed data analysis workflows in R for two studies of dipole-dipole 
 interactions in cold Rydberg gases.\ 
-  * Developed R package modeling the Stark effect in Rubidium
+  * Developed R package modeling the Stark effect in Rubidium.\ 
+  * Studied the absence of collective decay in Rubidium Rydberg atoms.\ 
+  * Studied cold Rydberg atom dipole-dipole resonance line shapes.\ 
+  * Investigated methods to control the minimum separation between atoms in a cold gas.  
+  
 
 2010--2014
 : **Graduate Teaching Assistant,** The University of Virginia, Charlottesville, VA  
@@ -51,16 +58,31 @@ interactions in cold Rydberg gases.\
 : * Led discussion sections and laboratory sections and evaluated student 
 assignments for introductory and mid-level physics courses.
 
+2010 
+: **Summer Undergraduate Research Fellow,** Pomeroy Lab  
+National Institute of Standards and Technology, Gaithersburg, MD  
+
+: * Studied methods for precision resistance measurements.\ 
+  * Assisted in the fabrication and assembly of lab equipment.  
+  
+2009--2010
+: **Undergraduate Researcher,** Aubin Lab  
+Department of Physics, The College of William and Mary, Williamsburg, VA  
+
+: * Studied methods to implement an optical frequency comb using an actively 
+mode-locked diode laser.\ 
+  * Trained in optical experimental techniques.
+
 2009 
 : **Summer Undergraduate Research Fellow,** Windover Lab  
-National Institute of Science and Technology, Gaithersburg, MD  
+National Institute of Standards and Technology, Gaithersburg, MD  
 
 : * Used R, Python, and genetic algorithms to analyze X-ray reflectometry data. 
 
 ### Publications
 
-* **B. G. Richards** and R. R. Jones, *Phys. Rev. A* 93, 042505 (2016).
-* T. Zhou, **B. G. Richards**, and R. R. Jones, *Phys. Rev. A* 93, 033407 (2016).
+* **B. G. Richards** and R. R. Jones, [*Phys. Rev. A* 93, 042505 (2016)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.93.042505).
+* T. Zhou, **B. G. Richards**, and R. R. Jones, [*Phys. Rev. A* 93, 033407 (2016)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.93.033407).
 
 ### Presentations and Talks
 
