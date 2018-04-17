@@ -31,8 +31,12 @@ courses in machine learning), DataCamp Data Scientist (with Python) career track
 2010--2017
 : **Ph.D., Physics,** The University of Virginia, Charlottesville, VA
 
+: * Dissertation: [Dipole-Dipole Interactions in a cold Rydberg Gas](https://doi.org/10.18130/V3MB4V)
+
 2006--2010
 : **B.S., Physics,** The College of William and Mary, Williamsburg, VA
+
+: * Graduated Summa Cum Laude with Honors in Physics
 
 ### Experience 
 
