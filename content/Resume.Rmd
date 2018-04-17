@@ -31,7 +31,7 @@ courses in machine learning), DataCamp Data Scientist (with Python) career track
 2010--2017
 : **Ph.D., Physics,** The University of Virginia, Charlottesville, VA
 
-: * Dissertation: [Dipole-Dipole Interactions in a cold Rydberg Gas](https://doi.org/10.18130/V3MB4V)
+: * Dissertation: [Dipole-Dipole Interactions in a Cold Rydberg Gas](https://doi.org/10.18130/V3MB4V)
 
 2006--2010
 : **B.S., Physics,** The College of William and Mary, Williamsburg, VA
@@ -47,7 +47,7 @@ Department of Physics, The University of Virginia, Charlottesville, VA
 : * Studied the absence of collective decay in Rubidium Rydberg atoms.\ 
   * Studied cold Rydberg atom dipole-dipole resonance line shapes.\ 
   * Investigated methods to control the minimum separation between atoms in a cold gas.\ 
-  * Developed data analysis pipelines in R for two studies of dipole-dipole 
+  * Developed data analysis workflows in R for two studies of dipole-dipole 
 interactions in cold Rydberg gases.\ 
   * Developed R package modeling the Stark effect in Rubidium.  
 
