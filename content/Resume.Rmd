@@ -80,8 +80,8 @@ National Institute of Standards and Technology, Gaithersburg, MD
 
 ### Publications
 
-* **B. G. Richards** and R. R. Jones, *Phys. Rev. A* 93, 042505 (2016).
-* T. Zhou, **B. G. Richards**, and R. R. Jones, *Phys. Rev. A* 93, 033407 (2016).
+* **B. G. Richards** and R. R. Jones, [*Phys. Rev. A* 93, 042505 (2016)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.93.042505).
+* T. Zhou, **B. G. Richards**, and R. R. Jones, [*Phys. Rev. A* 93, 033407 (2016)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.93.033407).
 
 ### Presentations and Talks
 
