@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Brian G. Richards</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://briangrichards.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AMLCville and DataCamp Courses</title>
+      <link>http://briangrichards.com/post/amlcville-and-datacamp-courses/</link>
+      <pubDate>Fri, 04 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://briangrichards.com/post/amlcville-and-datacamp-courses/</guid>
+      <description>I’ve been busy over the last few months working on my data science skills. Starting around the beginning of the year, I started working on the DataCamp career track for Data Science using Python. I recently completed it and really enjoyed my time working on it. I feel like the courses have given me enough knowledge that I can do a little bit of work in Python and get started on learning more independently.</description>
+    </item>
     
     <item>
       <title>Announcing Simply Approximate</title>
