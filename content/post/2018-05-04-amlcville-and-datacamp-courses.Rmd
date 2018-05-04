@@ -5,3 +5,13 @@ date: '2018-05-04'
 slug: amlcville-and-datacamp-courses
 ---
 
+I've been busy over the last few months working on my data science skills. 
+Starting around the beginning of the year, I started working on the DataCamp 
+career track for Data Science using Python. [I recently completed it](https://www.datacamp.com/statement-of-accomplishment/track/697a516dcfd66c1a0da3d900f5d53f6d38bf1b5f) 
+and really enjoyed my time working on it. I feel like the courses have given me 
+enough knowledge that I can do a little bit of work in Python and get started on 
+learning more independently. 
+
+I also spent some time back in April at the Charlottesville Applied Machine 
+Learning Conference (AMLCville). [I wrote up a few quick thoughts on my other 
+blog, so check it out](http://www.simplyapproximate.com/posts/amlcville-retrospective/)!
