@@ -41,9 +41,12 @@ courses in machine learning), DataCamp Data Scientist (with Python) career track
 ### Experience 
 
 2018
+: **Analytics - Analyst,** Merkle, Charlottesville, VA
+
+2018
 : **R Package Volunteer,** The Center for Open Science, Charlottesville, VA
 
-: * Assisted in the development of [_osfr_](https://github.com/chartgerink/osfr), 
+: * Assisted in the development of [_osfr_](https://github.com/CenterForOpenScience/osfr), 
 an R package used to communicate with the OSF API. 
 
 2011--2017
